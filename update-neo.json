@@ -1,0 +1,12 @@
+{
+  "versionCode": 6,
+  "versionName": "2.1.1",
+  "releaseDate": "۱۴۰۵/۰۸/۰۲",
+  "downloadUrl": "https://github.com/Alimosavi-Code/Shiftkar/releases/download/v2.1.1/shiftkar-neo-v2.1.1-universal.apk",
+  "isForceUpdate": false,
+  "changelog": [
+    "پس‌زمینهٔ اورورا آرام‌تر شد: در حالت تیره مثل نسخهٔ وب نصف می‌شود، دانه‌های نویز ریز و نامحسوس شدند",
+    "آیکون «تقویم» و «جدولی» حالا هم‌اندازه‌اند — هم در تنظیمات هم در آنبوردینگ",
+    "هنگام نوشتن یادداشت، پنجره با بالا آمدن کیبورد جابه‌جا می‌شود و فیلد همیشه دیده می‌شود"
+  ]
+}
