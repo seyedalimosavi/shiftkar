@@ -2,7 +2,7 @@
   "versionCode": 61,
   "versionName": "6.0.1",
   "downloadUrl": "https://github.com/seyedalimosavi/shiftkar/releases/download/v6.0.1/shiftkar-v6.0.1.apk",
-  "isForceUpdate": false,
+  "isForceUpdate": true,
   "releaseDate": "۱۴۰۵/۰۹/۰۴",
   "changelog": [
     "بنر «شیفت امروز» به نمای چهارگروهی («همه») برگشت — با طراحی تازه و شیشه‌ای: چهار کاشی هم‌رنگِ راهنما برای گروه‌های A/B/C/D با آیکون نوع شیفت و برچسب کوتاه مثل «صبح‌کار ۱»؛ با لمس بنر، جزئیات همان روز باز می‌شود",
